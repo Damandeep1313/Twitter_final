@@ -18,8 +18,8 @@ EXPOSE 3000
 
 # Step 7: Set environment variables (optional if using dotenv for local development)
 # ENV PORT=3000
-# ENV CLIENT_ID=your_client_id
-# ENV CLIENT_SECRET=your_client_secret
+# ENV CLIENT_ID=b2IxOC1EOWQzVnk1cmVKVlRvT1A6MTpjaQ
+# ENV CLIENT_SECRET=5rlNun5FLNgh8N5mxWUAYVlNDXXfJDVQ6m5x3bzwg2z1f7pmnv
 
 # Step 8: Start the application with server1.js
 CMD ["node", "server1.js"]
